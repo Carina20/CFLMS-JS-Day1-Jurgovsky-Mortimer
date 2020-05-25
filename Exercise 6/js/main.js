@@ -19,7 +19,7 @@ let animal = ["monkey", "horse", "dog"];
 document.write("Start = " + animal);
 document.write("<br>");
 
-animal.reverse;
+animal.reverse();
 document.write("Output = " + animal);
 document.write("<br>");
 
